@@ -1,0 +1,1 @@
+Local-first PWA package. The app does not send customer/accounting records to a server by design. Verify network behavior and all workflows before production use. Backups are user-triggered JSON downloads; keep them in a private, secure location.

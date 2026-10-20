@@ -1,0 +1,5 @@
+Latest demo changes
+- GST percentage and making-charge percentage calculations are part of the demo UI. Verify the applicable GST rate and tax treatment for your business.
+- Advance Orders tab captures order details, customer details/photo and advance amount; an order is not treated as a completed sale and should not reduce stock until sale.
+- Existing UI assets and PWA files retained.
+- Demo/preview only: verify all workflows and persistence before using for real customer records.
